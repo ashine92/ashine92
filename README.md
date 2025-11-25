@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+ashine92+%F0%9F%91%8B;AI%2FML+%7C+IoT+%7C+Embedded+Systems;Mobile+App+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+ashine92+%F0%9F%91%8B;AI%2FML+%7C+IoT+%7C+Embedded+Systems;Always+Learning+New+Things!" alt="Typing SVG" />
 
 <!-- Animated Wave -->
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
@@ -17,7 +17,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-I'm a passionate developer with a strong interest in **AI/ML**, **IoT/Embedded Systems**, and **Mobile App Development**. I enjoy building innovative solutions that combine hardware and software to solve real-world problems.
+I'm a passionate developer with a strong interest in **AI/ML**, **IoT/Embedded Systems**. I enjoy building innovative solutions that combine hardware and software to solve real-world problems.
 
 - 🔭 Currently working on **AI-powered health monitoring systems** and **smart IoT devices**
 - 🌱 Learning about **Deep Learning**, **Embedded Systems**, and **Mobile Development**
@@ -31,27 +31,41 @@ I'm a passionate developer with a strong interest in **AI/ML**, **IoT/Embedded S
 
 ## 🚀 Highlighted Projects
 
-<div align="center">
+Here are some of the standout projects I've worked on:
 
-[![EnglishApp](https://github-readme-stats.vercel.app/api/pin/?username=ashine92&repo=EnglishApp&theme=tokyonight&hide_border=true)](https://github.com/ashine92/EnglishApp)
-[![sky-webapp](https://github-readme-stats.vercel.app/api/pin/?username=ashine92&repo=sky-webapp&theme=tokyonight&hide_border=true)](https://github.com/ashine92/sky-webapp)
-[![AIoT-Health-Monitoring-System](https://github-readme-stats.vercel.app/api/pin/?username=ashine92&repo=AIoT-Health-Monitoring-System&theme=tokyonight&hide_border=true)](https://github.com/ashine92/AIoT-Health-Monitoring-System)
-[![Sleep-Stage-Classification-from-Single-Channel-EEG](https://github-readme-stats.vercel.app/api/pin/?username=ashine92&repo=Sleep-Stage-Classification-from-Single-Channel-EEG&theme=tokyonight&hide_border=true)](https://github.com/ashine92/Sleep-Stage-Classification-from-Single-Channel-EEG)
-[![Smart-Clothes-Drying-Rack](https://github-readme-stats.vercel.app/api/pin/?username=ashine92&repo=Smart-Clothes-Drying-Rack&theme=tokyonight&hide_border=true)](https://github.com/ashine92/Smart-Clothes-Drying-Rack)
-[![Embedded-Engineering-Roadmap](https://github-readme-stats.vercel.app/api/pin/?username=ashine92&repo=Embedded-Engineering-Roadmap&theme=tokyonight&hide_border=true)](https://github.com/ashine92/Embedded-Engineering-Roadmap)
+1. **[EnglishApp](https://github.com/ashine92/EnglishApp)**  
+   _Smart English vocabulary learning app powered by Google Gemini AI._  
+   **Languages:** ![Kotlin Badge](https://img.shields.io/badge/Kotlin-98%25-%230095D5?style=flat-square)  
+   This app redefines language learning through cutting-edge AI, providing personalized vocabulary suggestions.
 
-</div>
+2. **[Sky WebApp](https://github.com/ashine92/sky-webapp)**  
+   _A comprehensive real-time drone surveillance and flood rescue system._  
+   **Languages:** ![Python Badge](https://img.shields.io/badge/Python-44.8%25-%23FFD43B?style=flat-square) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-28.2%25-%23F7DF1E?style=flat-square) ![HTML Badge](https://img.shields.io/badge/HTML-24.4%25-%23E34F26?style=flat-square) ![CSS Badge](https://img.shields.io/badge/CSS-2.6%25-%231572B6?style=flat-square)  
+   Combines modern web technologies and Python to enable live GPS tracking and object detection during flood rescue operations.
 
+3. **[AIoT Health Monitoring System](https://github.com/ashine92/AIoT-Health-Monitoring-System)**  
+   _A wearable AIoT system for real-time health risk assessment using ESP32-S3._  
+   **Languages:** ![Jupyter Badge](https://img.shields.io/static/v1?label=Jupyter&message=55.7%&color=f37626) ![C Badge](https://img.shields.io/badge/C-31.3%25-%2300599c) ![C++ Badge](https://img.shields.io/badge/C++-9.8%25-%23f34b7d)  
+   This system leverages AI and IoT for continuous health monitoring and risk analysis.
+
+4. **[Sleep Stage Classification from EEG](https://github.com/ashine92/Sleep-Stage-Classification-from-Single-Channel-EEG)**  
+   _Classifies human sleep stages using deep learning on EEG signals._  
+   **Languages:** ![Jupyter Badge](https://img.shields.io/static/v1?label=Jupyter&message=99.8%&color=f37626)  
+   An AI-driven solution for EEG-based sleep studies, using the PhysioNet Sleep-EDF dataset.
+
+5. **[Smart Clothes Drying Rack](https://github.com/ashine92/Smart-Clothes-Drying-Rack)**  
+   _An IoT-based automatic clothes drying system with weather sensing._  
+   **Languages:** ![C++ Badge](https://img.shields.io/badge/C++-83.8%25-%23f34b7d) ![C Badge](https://img.shields.io/badge/C-16.2%25-%2300599c)  
+   Integrates IoT technology for smart home automation.
+
+6. **[Embedded Engineering Roadmap](https://github.com/ashine92/Embedded-Engineering-Roadmap)**  
+   _A comprehensive roadmap for aspiring Embedded Systems Engineers._  
+   A curated resource to guide your journey through embedded systems development.
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ashine92&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashine92&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 
-</div>
 
 <div align="center">
   
@@ -62,7 +76,7 @@ I'm a passionate developer with a strong interest in **AI/ML**, **IoT/Embedded S
 <!-- Activity Graph -->
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashine92&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashine92&theme=radical">
 
 </div>
 
@@ -129,24 +143,10 @@ I'm a passionate developer with a strong interest in **AI/ML**, **IoT/Embedded S
 
 [![GitHub](https://img.shields.io/badge/GitHub-ashine92-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashine92)
 
+Feel free to connect or reach out to me via: nguyenatm0902@gmail.com
 </div>
 
 ---
-
-<div align="center">
-
-### 💡 Random Dev Quote
   
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+### Let's collaborate and build something amazing together! 🚀
 
-</div>
-
----
-
-<div align="center">
-  
-### ⭐️ Show some ❤️ by starring some of the repositories!
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
