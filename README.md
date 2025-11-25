@@ -19,7 +19,7 @@
 
 I'm a passionate developer with a strong interest in **AI/ML**, **IoT/Embedded Systems**. I enjoy building innovative solutions that combine hardware and software to solve real-world problems.
 
-- 🔭 Currently working on **AI-powered health monitoring systems** and **smart IoT devices**
+- 🔭 Currently working on **AI-powered systems**, **Embedded Systems** and **smart IoT devices**
 - 🌱 Learning about **Deep Learning**, **Embedded Systems**, and **Mobile Development**
 - 💡 Love turning ideas into functional projects that make a difference
 - 🎯 Focus on **AIoT** - the intersection of AI and IoT
