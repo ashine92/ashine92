@@ -144,9 +144,9 @@ Here are some of the standout projects I've worked on:
 [![GitHub](https://img.shields.io/badge/GitHub-ashine92-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashine92)
 
 Feel free to connect or reach out to me via: nguyenatm0902@gmail.com
+### Let's collaborate and build something amazing together! 🚀
+
 </div>
 
 ---
-  
-### Let's collaborate and build something amazing together! 🚀
 
